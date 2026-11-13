@@ -79,5 +79,3 @@ The analysis covered:
 - Conducted comprehensive exploratory data analysis using SQL.
 - Developed customer-level reporting to support business insights and decision-making.
 
-**Chaitra**
-
